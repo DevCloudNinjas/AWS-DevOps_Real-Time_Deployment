@@ -4,4 +4,4 @@
 
 ## ✍️ DETAILED BLOG LINK with SCREENSHOTS: https://devcloudninjas.hashnode.dev/aws-devops-real-time-deployment-dev-pre-prod-production
 
-##  🤖 CREDITS/CREATER: [H A R S H H A A](https://github.com/DevCloudNinjas)
+##  🤖 CREDITS/CREATER: [DevCloud Ninjas](https://github.com/DevCloudNinjas)
